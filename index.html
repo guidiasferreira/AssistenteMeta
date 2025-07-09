@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsive.css">
+    <title>Assistente Meta</title>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <img src="./assets/Logo.png" alt="Logo Esports nlw" draggable="false" id="logo">
+        </header>
+
+        <main>
+            <section id="content">
+                <div class="box-content">
+                    <h2>Assistente de Meta</h2>
+                    <p>Pergunte sobre estratégias, build e dicas para seus jogos!</p>
+
+                    <form action="" id="form">
+                        <input type="password" id="apikey" placeholder="Informe a API KEY do Gemini" required>
+
+                        <select id="gameSelect">
+                            <option value="">Selecione um jogo</option>
+                            <option value="valorant">Valorant</option>
+                            <option value="csgo">CS:GO</option>
+                            <option value="lol">League of Legends</option>
+                        </select>
+
+                        <input id="questionInput" type="text" placeholder="Ex: Melhor Build para ADC...">
+
+                        <button id="askButton">Perguntar</button>
+                    </form>
+
+                    <div id="aiResponse">
+                        <div class="response-content">
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
