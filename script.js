@@ -90,7 +90,7 @@ const perguntarAI = async (question, game, apiKey) => {
         - **Duelista:** Raze (para criar espaço com a Carga de Explosivos)
         - **Iniciador:** Skye (para informação e flashes)
         - **Sentinela:** Cypher ou Killjoy (para proteger flancos)
-        - **Flexível:** Viper (para controle pós-plant)
+        - **Flexível:** Viper (para controle de pós-plant)
 
         ---
         Aqui está a pergunta do usuário: ${question}`;
