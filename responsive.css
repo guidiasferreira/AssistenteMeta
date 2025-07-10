@@ -1,28 +1,23 @@
 @media (max-width: 600px) {
-    /* Diminui a margem principal e a centraliza */
     main {
         margin: 2rem auto 4rem auto;
         width: 90%;
     }
 
-    /* Reduz o tamanho da logo */
     #logo {
         width: 12rem;
     }
 
-    /* Diminui o espaçamento interno do box principal */
     .box-content {
         padding: 1.5rem;
     }
 
-    /* Garante que os inputs e o select ocupem 100% da largura no mobile */
     form input,
     form select {
         width: 100%;
-        flex: 1 1 100%; /* Garante que o input expanda corretamente */
+        flex: 1 1 100%; 
     }
 
-    /* Ajuste de fonte para telas menores */
     .box-content h2 {
         font-size: 1.5rem;
     }
