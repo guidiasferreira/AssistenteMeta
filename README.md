@@ -1,5 +1,5 @@
 <h1>Assistente Meta</h1>
-<p>Projeto realizado durante a semana da NLW#20#, produzida pela Rocketseat 🚀.</p>
+<p>Projeto realizado durante a semana da NLW#20, produzida pela Rocketseat 🚀.</p>
 
 <h2>Descrição:</h2>
 <p></p>O Assistente Meta é o seu chatbot de inteligência artificial pessoal, focado em te ajudar a dominar o "meta" dos seus jogos favoritos, como League of Legends, Valorant e outros.
