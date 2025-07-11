@@ -21,3 +21,12 @@ Receba a Resposta: O Assistente Meta usa a inteligência artificial do Gemini pa
   <li><p>CSS3</p></li>
   <li><p>JavaScript</p></li>
 </ul>
+
+<h2>Imagens do projeto:</h2>
+<img src="./assets/AssistenteMeta.png">
+
+<br>
+<br>
+
+<img src="./assets/2.png">
+
